@@ -147,7 +147,6 @@ li {
   line-height: 24px;
   list-style: none;
   text-decoration: none;
-  color: var(--color-navy-blue);
   display: flex;
   gap: 40px;
 }
